@@ -1,0 +1,16 @@
+# Global node_modules
+**/node_modules
+**/dist
+**/.next
+**/.env*
+**/*.db
+**/*.db-journal
+
+# Project specific
+backend/dist/
+frontend/.next/
+frontend/out/
+
+# Misc
+.DS_Store
+Thumbs.db
